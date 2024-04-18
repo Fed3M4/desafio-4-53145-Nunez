@@ -1,0 +1,11 @@
+<div>
+    <h1>¡Estos son los productos que tenemos para ofrecerte!</h1>
+    {{#each products}}
+        <div>
+            <p>Producto: {{this.title}}</p>
+            <p>Precio: {{this.price}}</p>
+            <p>Cantidad disponible: {{this.stock}}</p>
+        </div>
+    {{/each}}
+</div>
+<script src="js/index.js"></script>

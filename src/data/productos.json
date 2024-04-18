@@ -1,0 +1,42 @@
+[
+	{
+		"id": 2,
+		"title": "Botas",
+		"description": "Devestir",
+		"price": 12000,
+		"thumbnail": "/imagenes",
+		"code": " QAx7kWkjk",
+		"stock": 20
+	},
+	{
+		"id": 3,
+		"title": "Zapatos",
+		"description": "Devestir",
+		"price": 12000,
+		"thumbnail": "/imagenes",
+		"code": " NuS1gAdrv",
+		"stock": 20
+	},
+	{
+		"id": 4,
+		"title": "remera",
+		"description": "para invierno",
+		"price": "15200",
+		"stock": "20",
+		"category": "Ropa",
+		"thumbnail": "c/remera.png",
+		"status": true,
+		"code": " 8kI9Of5yf"
+	},
+	{
+		"id": 5,
+		"title": "pantalon corto",
+		"description": "de futbol",
+		"price": "135445",
+		"status": true,
+		"stock": "123",
+		"category": "deportes",
+		"thumbnail": "c/messi.png",
+		"code": " wYKVN340k"
+	}
+]
